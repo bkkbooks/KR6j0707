@@ -1,0 +1,206 @@
+canonical_identifier: bkk:krp/KR6j0707/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0707/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經講錄
+  identifiers:
+    krp: KR6j0707
+    cbeta: X15n0299
+    cbeta_old_id: X15n0299
+    authorityid: CA0001974
+    json_key: X0299
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X15/X15n0299.xml
+    old_id: X15n0299
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0707_000-X.yaml, hash: 'sha256:173e03125ecc77be699409c19fffd254306264fb1ddf7f82faff9d99bae892de'}
+  - {seq: 1, filename: KR6j0707_001-X.yaml, hash: 'sha256:f44065aa8c3efd8664fe99a6f57068f09bf1911ecb5bd43d00aa7e5f99c2e383'}
+  - {seq: 2, filename: KR6j0707_002-X.yaml, hash: 'sha256:7eb99cb3809e62b0ad6702f37750aaf06a9c0230533c81dfe6be638b55e0450d'}
+  - {seq: 3, filename: KR6j0707_003-X.yaml, hash: 'sha256:08aeee49e72e44c889a50b73fa8f129ffbf7302210bef44f22dfacf307234316'}
+  - {seq: 4, filename: KR6j0707_004-X.yaml, hash: 'sha256:a3848e31aa7819a1acfc198368d8ed1c6505d13f845ff0d3e51ae3523735cafb'}
+  - {seq: 5, filename: KR6j0707_005-X.yaml, hash: 'sha256:115cdd3d57f1ef340b0b6cb9d5f72530b3aa5b7ed62560f47aba14f91217ea6d'}
+  - {seq: 6, filename: KR6j0707_006-X.yaml, hash: 'sha256:f80021073b74a2cf20b12b8dcc7ba0764ac364b0b18d059449107b928fc6da45'}
+  - {seq: 7, filename: KR6j0707_007-X.yaml, hash: 'sha256:d7e8052b5d29410577ea92e57be3a00752bb7134f9826d89cba24ac2ce6d3139'}
+  - {seq: 8, filename: KR6j0707_008-X.yaml, hash: 'sha256:56e795a590d1deb1594270eacc25918c1f2bacbecc2a48b2b5a639f5dd604849'}
+  - {seq: 9, filename: KR6j0707_009-X.yaml, hash: 'sha256:68962206d0eb4ff59c1642af7ae2a5f405a285d1fb587161224ec3b24b4a0196'}
+  - {seq: 10, filename: KR6j0707_010-X.yaml, hash: 'sha256:6b29febe4f0b154fffc1e709f509cb30a6b5d26d306a06e18343cf817ece8f71'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0707_000-X.markers.yaml, hash: 'sha256:8d74cc856f2395607b16e3130c5c4c4b562cbf82a3ea725ce69ab174592889a4'}
+  - {seq: 1, role: markers, filename: assets/KR6j0707_001-X.markers.yaml, hash: 'sha256:aa3e150dec32890101503782ac753d893b5d95918869d42aa1cdb4e4798dd2db'}
+  - {seq: 2, role: markers, filename: assets/KR6j0707_002-X.markers.yaml, hash: 'sha256:811ed968b6afc2a4e67884333588001e831b3f6193931cbd48201ec700e9a462'}
+  - {seq: 3, role: markers, filename: assets/KR6j0707_003-X.markers.yaml, hash: 'sha256:25e45866e3ca6dd5f22ffcb9cc3625eb438829a99e53d270d67dd80518df0532'}
+  - {seq: 4, role: markers, filename: assets/KR6j0707_004-X.markers.yaml, hash: 'sha256:cb53d96fb30502f7519181b801010b7279819a4b2e4032a69886952d0abacb33'}
+  - {seq: 5, role: markers, filename: assets/KR6j0707_005-X.markers.yaml, hash: 'sha256:487eda4108912aef23af532d9e324c3daa22997151779cd3425cbcb96d81b896'}
+  - {seq: 6, role: markers, filename: assets/KR6j0707_006-X.markers.yaml, hash: 'sha256:969deafdbeb21acaf0ab3d461b11ad7861d9fc9a754301585de0b01fb4b95987'}
+  - {seq: 7, role: markers, filename: assets/KR6j0707_007-X.markers.yaml, hash: 'sha256:871a7642f3eb814576247f04f7d30e6ddfe86027db0d170ff9a58e527634e366'}
+  - {seq: 8, role: markers, filename: assets/KR6j0707_008-X.markers.yaml, hash: 'sha256:e3e38e1846a8b77ab35cb0b0d65ca5937581be4689527629d5e6ed4afb139f1d'}
+  - {seq: 9, role: markers, filename: assets/KR6j0707_009-X.markers.yaml, hash: 'sha256:1509007880f399ea3d4064d7e64ae4a95df060910e5682b08a1c8e7b95246fb0'}
+  - {seq: 10, role: markers, filename: assets/KR6j0707_010-X.markers.yaml, hash: 'sha256:7ce86644c964107b0c65cfe249b86e86385dbfda53a6c5d614496fec556e3b5f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0707_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 299-A 楞嚴講錄自敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0707_X_000-mulu-2
+    span:
+    - front
+    - 1562
+    - 1562
+  label: No. 299-B 楞嚴講錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0707_X_000-mulu-3
+    span:
+    - front
+    - 1771
+    - 1771
+  label: 楞嚴經講錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0707_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 21741
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0707_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 23602
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0707_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 20280
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0707_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 22212
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0707_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 13529
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0707_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 15060
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第六'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0707_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 11076
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第七'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0707_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 18874
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第八'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0707_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 15491
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第九'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0707_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 14828
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第十'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0707_X_010-mulu-1
+    span:
+    - body
+    - 14041
+    - 14041
+  label: No. 299-C 楞嚴講錄後序
+  type: mulu
+  level: 1
+hash: sha256:2d9d8fced994c840125b5c5f91acb4ee59e639c2500585d0d23c0594f425d2dc

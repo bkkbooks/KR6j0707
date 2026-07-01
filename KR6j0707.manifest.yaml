@@ -1,0 +1,211 @@
+canonical_identifier: bkk:krp/KR6j0707/v1
+canonical_location: https://kanripo.org/bkk/KR6j0707/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楞嚴經講錄
+  identifiers:
+    alt_id:
+    - X15n0299
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X15/X15n0299.xml
+    old_id: X15n0299
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0707_000.yaml, hash: 'sha256:ed1e600079ad24447e2753fa9e1f9663bdc8576543f1972e5a0c08021c007a6f'}
+  - {seq: 1, filename: KR6j0707_001.yaml, hash: 'sha256:1f0a6c2956753b814a26d7e6962480505705916f78bc2815f3785c91b3705dc4'}
+  - {seq: 2, filename: KR6j0707_002.yaml, hash: 'sha256:91052653aca8c17f54233724147a8f0f534a9744c1fa6c9b8f10aab22299785c'}
+  - {seq: 3, filename: KR6j0707_003.yaml, hash: 'sha256:76fd0b9b1fe4d223bf956d6d3a0452a00a19c5ab381628f0efb6bd594699701a'}
+  - {seq: 4, filename: KR6j0707_004.yaml, hash: 'sha256:f4916946e5d74b3d1d2aa0e427b1039a66a49a78bd6220fbbe22467b949c4aba'}
+  - {seq: 5, filename: KR6j0707_005.yaml, hash: 'sha256:09e5d082ca9c2dd7810dd8d33c47b8b7a10b75f8ad31cb478581dff1649b7129'}
+  - {seq: 6, filename: KR6j0707_006.yaml, hash: 'sha256:157049e6a22938b636109640ad1feb9ee58d6849767f235f7ee762e19eb4b020'}
+  - {seq: 7, filename: KR6j0707_007.yaml, hash: 'sha256:3ccd656e2bb2e5040de627656cba9b433beb2f6995106cf403a8210bfc1e238a'}
+  - {seq: 8, filename: KR6j0707_008.yaml, hash: 'sha256:ae35762c9010b4113ea181320e9b50d4eca0afb8c9d8015f608654cbbe1371e2'}
+  - {seq: 9, filename: KR6j0707_009.yaml, hash: 'sha256:8f52e5ea6e1f1ffe62ffeca6804b38a0b4b0b88f22098e39335216a1d975a52a'}
+  - {seq: 10, filename: KR6j0707_010.yaml, hash: 'sha256:7ca368c1c113aef1a87185fe97d8735cbf1045abb1e4a45a6c99ef364ce6173d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0707_000.markers.yaml, hash: 'sha256:868c91fc9a58aa31c952b8b8a087334145abce6742012d8692cf79eb80866789'}
+  - {seq: 1, role: markers, filename: assets/KR6j0707_001.markers.yaml, hash: 'sha256:dd57d006683ef05d8b19148a7e77973583bfecf484a360afc9669f2579cc4b02'}
+  - {seq: 2, role: markers, filename: assets/KR6j0707_002.markers.yaml, hash: 'sha256:821a82fc56c4c61426147b95881bb6d0682c7205f51bb984a48a21d16291039b'}
+  - {seq: 3, role: markers, filename: assets/KR6j0707_003.markers.yaml, hash: 'sha256:3d6b32bc2d0c9e2a86af0485944d9898133511798c05e91a390319c1a1134607'}
+  - {seq: 4, role: markers, filename: assets/KR6j0707_004.markers.yaml, hash: 'sha256:013b048d28668d1e536c12cdc18ae2314287370c63aa282afa6dcd4da9ab1997'}
+  - {seq: 5, role: markers, filename: assets/KR6j0707_005.markers.yaml, hash: 'sha256:4caa5d19c0d375d9e055120028cfd62376714535b57df5cc28d55c7f9e92a883'}
+  - {seq: 6, role: markers, filename: assets/KR6j0707_006.markers.yaml, hash: 'sha256:ad3d8fe2bb03911f698043ec92bf9c6181a907e5c95a75d7e6ad2c9ce7eb9d09'}
+  - {seq: 7, role: markers, filename: assets/KR6j0707_007.markers.yaml, hash: 'sha256:a3f24244e7f025770ba557cd4304da3bc18c7595da8c136e6d56db9f84697f2c'}
+  - {seq: 8, role: markers, filename: assets/KR6j0707_008.markers.yaml, hash: 'sha256:0b11e6dd3be9491165853d3a81311540369a291548a652dcd8a7525be8ebb40b'}
+  - {seq: 9, role: markers, filename: assets/KR6j0707_009.markers.yaml, hash: 'sha256:b56404508849375617a65dbf8b0ada27b195f732615b968742ee964fe0e0ed33'}
+  - {seq: 10, role: markers, filename: assets/KR6j0707_010.markers.yaml, hash: 'sha256:9f37945008cc831bc0467f3db6a3d7199b352b20c03072fc676218edaea39e74'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0707_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 299-A 楞嚴講錄自敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0707_X_000-mulu-2
+    span:
+    - front
+    - 1562
+    - 1562
+  label: No. 299-B 楞嚴講錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0707_X_000-mulu-3
+    span:
+    - front
+    - 1771
+    - 1771
+  label: 楞嚴經講錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0707_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 21741
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0707_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 23602
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0707_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 20280
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0707_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 22212
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0707_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 13529
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0707_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 15060
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第六'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0707_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 11076
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第七'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0707_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 18874
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第八'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0707_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 15491
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第九'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0707_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 14828
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    講錄卷第十'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0707_X_010-mulu-1
+    span:
+    - body
+    - 14041
+    - 14041
+  label: No. 299-C 楞嚴講錄後序
+  type: mulu
+  level: 1
+hash: sha256:851216eb40dc6554d93f4ff93cc6affebefb93884cbc10aa9f49d07cd4a5a0ec
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
