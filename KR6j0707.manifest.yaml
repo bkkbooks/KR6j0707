@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0707_000.yaml, hash: 'sha256:01b2546b4b7dd8f2461af4edac3a41af3889eb4af662219d6cc3f4bb144cf0d4'}
+  - {seq: 0, filename: KR6j0707_000.yaml, hash: 'sha256:683e3733008431aceb19c4e0d7a4d7af2a838e181bdf403fe72e8bb2f8278810'}
   - {seq: 1, filename: KR6j0707_001.yaml, hash: 'sha256:042cc6b637ab5a977622cc74f4c2a596654ca5dda882d4c73288e983c54686de'}
   - {seq: 2, filename: KR6j0707_002.yaml, hash: 'sha256:922964aad51f15f8d0a2f25183a21dde5701a4e64c08452506202923212b11f1'}
   - {seq: 3, filename: KR6j0707_003.yaml, hash: 'sha256:435c9e26f11eb21539de6031a46408515d335c3a1055f0fa7e37f677e6fb1422'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6j0707_009.yaml, hash: 'sha256:09a5daa7f8deb8af9dccb1195da7578875b2945c73895816e447e860df48d3c3'}
   - {seq: 10, filename: KR6j0707_010.yaml, hash: 'sha256:3d3c42d33dd9a03ec152cb473d6013dafe65f721b924c129b0afc6f9d1cfe03e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0707_000.markers.yaml, hash: 'sha256:a2c7f768c933ccca6aea9bdd81652b5fdb7a023c823b7ef39e0b2d0a838d326f'}
+  - {seq: 0, role: markers, filename: assets/KR6j0707_000.markers.yaml, hash: 'sha256:c45a4458cca8ad9b36e044749ddf30a852cb4c3f57ee48f4b0e9368689f1d662'}
   - {seq: 1, role: markers, filename: assets/KR6j0707_001.markers.yaml, hash: 'sha256:b3a4407542acf1e59a7218850ab629301cea98f3e49433b4c05fc92bf61b793f'}
   - {seq: 2, role: markers, filename: assets/KR6j0707_002.markers.yaml, hash: 'sha256:98db24e7ed7a303bb3957a4df675cd79f2a3b485b499ecb68fbc5c7deee544fa'}
   - {seq: 3, role: markers, filename: assets/KR6j0707_003.markers.yaml, hash: 'sha256:8546904797404a31615c475d4ba7f65601e607a429890258c1be0d0dbbb5418e'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0707_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 299-A 楞嚴講錄自敘
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0707_X_000-mulu-2
     span:
-    - front
+    - body
     - 1562
     - 1562
   label: No. 299-B 楞嚴講錄序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0707_X_000-mulu-3
     span:
-    - front
+    - body
     - 1771
     - 1771
   label: 楞嚴經講錄
@@ -205,7 +205,7 @@ table_of_contents:
   label: No. 299-C 楞嚴講錄後序
   type: mulu
   level: 1
-hash: sha256:8f4a24c7b3b4ac197336f7d28bed1eda2f59af040a16c9b564e1c28d6756ad32
+hash: sha256:eef341337ad36639f105b5e2f3cb18725c444e86f99bf78057abfa282c36a355
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
